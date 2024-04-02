@@ -47,12 +47,7 @@ python filter.py input.csv output.csv
 
 ## Contributing
 
-Contributions to the Wayback Wordpress Importer project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request. Ensure to follow the project's contribution guidelines.
-
-
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/itxZahidRajput/wayback-wordpress-importer/blob/main/LICENSE) for more information.
+Contributions to the CSV Domain Subdomain Filter are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request. Ensure to follow the project's contribution guidelines.
 
 ## Authors
 
